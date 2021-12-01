@@ -1,0 +1,27 @@
+
+
+  .active {
+    color: #638c2b !important ;
+
+
+  }
+
+  .ora  {
+    color: rgb(223, 145, 1) !important ;
+
+
+  }
+
+  .fondoaguacate{
+    background: rgb(176,204,100);
+    background: linear-gradient(0deg, rgba(176,204,100,1) 25%, rgba(246,235,189,1) 25%);
+   
+  }
+
+  .botonexp {
+    background-color: transparent;
+    border-color: #638c2b;
+    color:rgb(223, 145, 1) ;
+    font-size: .6em;
+    padding: 0em .8em;
+  }
